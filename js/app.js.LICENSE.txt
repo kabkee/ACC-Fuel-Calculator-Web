@@ -1,0 +1,9 @@
+/*!
+  * mdue v0.1.4
+  * (c) 2020 Sharad Chand
+  * @license MIT
+  */
+
+//! moment.js
+
+//! moment.js locale configuration
